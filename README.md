@@ -116,13 +116,4 @@ An order-lifecycle system for a food business: cashiers place orders from Telegr
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=mtizima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=mtizima&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center"><i>Open to Tech Lead / Staff Engineer roles, remote-first, worldwide.</i></p>
