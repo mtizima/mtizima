@@ -113,7 +113,7 @@ An order-lifecycle system for a food business: cashiers place orders from Telegr
 ## Open Source
 
 **[adjust-client](https://github.com/mtizima/adjust-client)**: Python client for the Adjust.com server-to-server (S2S) event API.
-
+**[docker-rollout-action](https://github.com/mtizima/docker-rollout-action)**: Zero-downtime deploys of Docker Compose services to your own server, straight from GitHub Actions.
 ---
 
 <p align="center"><i>Open to Tech Lead / Staff Engineer roles, remote-first, worldwide.</i></p>
